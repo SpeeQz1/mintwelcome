@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.4.4 (1:1.4.4+202605061436+dcaf3e7d9e)"
-   sodipodi:docname="Minty App Logo (v2).svg"
+   sodipodi:docname="mintwelcome-wiki.svg"
    inkscape:export-filename="Minty App Logo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:clip-to-page="true"
-     inkscape:zoom="0.58785918"
-     inkscape:cx="109.72016"
-     inkscape:cy="335.96482"
+     inkscape:zoom="0.62941316"
+     inkscape:cx="192.24256"
+     inkscape:cy="46.869055"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -1194,13 +1194,31 @@
          operator="over"
          in="SourceGraphic"
          in2="comp1"
-         id="feComposite7" /></filter></defs><g
+         id="feComposite7" /></filter><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6"><rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke-width:15.5151;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke;enable-background:new"
+         id="rect6"
+         width="512"
+         height="512"
+         x="1.7763568e-15"
+         y="1.7763568e-15"
+         ry="115.99084" /></clipPath></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"><g
+     id="layer1"
+     clip-path="url(#clipPath6)"
+     style="display:inline"><rect
+       style="display:inline;fill:#202c19;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:fill markers stroke;fill-opacity:1"
+       id="rect3"
+       width="512"
+       height="512"
+       x="0"
+       y="0"
+       inkscape:label="Background" /><g
        id="g138-7-0"
        inkscape:label="Minty"
-       transform="matrix(5.1310092,0,0,5.1310092,-258.95965,-485.64596)"
+       transform="matrix(7.2882622,0,0,7.2882622,-471.86173,-876.26048)"
        inkscape:export-filename="Minty_Full.png"
        inkscape:export-xdpi="120"
        inkscape:export-ydpi="120"><g
@@ -1525,7 +1543,7 @@
                style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1" /></g></g></g></g><g
        id="g12"
        style="display:inline;stroke-width:0.757104"
-       transform="matrix(0.49235716,0,0,0.25130032,-512.16948,225.26633)"
+       transform="matrix(0.66351028,0,0,0.3386573,-779.20043,172.35505)"
        inkscape:label="Book">
 		<path
    style="fill:#e2e2e2"
@@ -1541,7 +1559,7 @@
    id="path7" />
 		<polygon
    style="fill:#b85c2f;fill-opacity:1"
-   points="1489,1112 1489,481.871 1632,481.871 1632.526,1112 1617.474,1141 1502.904,1141 "
+   points="1617.474,1141 1502.904,1141 1489,1112 1489,481.871 1632,481.871 1632.526,1112 "
    id="polygon7" />
 		<path
    style="fill:#dc6830;fill-opacity:1"
@@ -1569,10 +1587,7 @@
    style="fill:#ffffff;fill-opacity:1;stroke-width:6.2632"
    inkscape:path-effect="#path-effect2"
    inkscape:original-d="m 107.573,412.96957 c -39.777584,0 -72.026824,32.24922 -72.026824,72.0268 0,39.78386 32.24924,72.0268 72.026824,72.0268 39.78386,0 72.0268,-32.24294 72.0268,-72.0268 0,-39.77758 -32.24294,-72.0268 -72.0268,-72.0268 z m 0,12.28176 c 33.00081,0 59.74504,26.74425 59.74504,59.74504 0,5.0757 -0.6924,9.97364 -1.88385,14.67938 l -28.41682,-31.58513 -36.33145,41.33467 17.52964,-35.07147 -8.75872,-15.65799 -51.646905,59.35358 c -6.300717,-9.46796 -9.982001,-20.82934 -9.982001,-33.05304 0,-33.00079 26.744265,-59.74504 59.745066,-59.74504 z"
-   transform="matrix(1.5707145,0,0,3.0774036,1158.0846,-783.84203)" /></g><g
-       id="g2"
-       inkscape:label="Minty"
-       transform="matrix(0.22264704,0,0,0.22264704,237.46021,493.33031)" /></g><style
+   transform="matrix(1.5707145,0,0,3.0774036,1158.0846,-783.84203)" /></g></g><style
      type="text/css"
      id="style1">
 	.st0{fill:#FFFFFF;}
